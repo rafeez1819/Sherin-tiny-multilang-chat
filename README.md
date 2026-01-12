@@ -18,11 +18,12 @@ tiny-multilang-chat/
 # Sherin-tiny-multilang-chat
 
 
-p align="center">
-  <a href="https://raw.githubusercontent.com/rafeez1819/Sherin-tiny-multilang-chat/main/sherin.html">
+<p align="center">
+  <a href="https://raw.githubusercontent.com/rafeez1819/Sherin-tiny-multilang-chat/main/sherin.html" download>
     <img src="https://img.shields.io/badge/⬇️%20Download-Sherin.html-blue?style=for-the-badge">
   </a>
 </p>
+
 
 
 
