@@ -21,16 +21,15 @@ tiny-multilang-chat/
 
 ## ⬇️ Download Chat Interface
 
-[⬇️ Download Sherin.html](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Chat_Bot/main/public/Sherin.html)
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Chat_Bot/main/public/Sherin.html">
+  <a href="https://raw.githubusercontent.com/YOUR_GITHUB_rafeez1819/Sherin-tiny-multilang-chat
+/main/public/Sherin.html">
     <img src="https://img.shields.io/badge/⬇️%20Download-Sherin.html-blue?style=for-the-badge">
   </a>
 </p>
 
-### Optional: Full Project ZIP
-- 📦 [Download Full Project (ZIP)](https://github.com/YOUR_GITHUB_rafeez1819/Chat_Bot/archive/refs/heads/main.zip)
+
 
 
 🌍 Language Auto-Detection (Ultra-Light)
