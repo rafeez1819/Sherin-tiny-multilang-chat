@@ -17,10 +17,6 @@ tiny-multilang-chat/
 
 # Sherin-tiny-multilang-chat
 
-## ⬇️ Download Chat Interface
-
-## ⬇️ Download Chat Interface
-
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/YOUR_GITHUB_rafeez1819/Sherin-tiny-multilang-chat
