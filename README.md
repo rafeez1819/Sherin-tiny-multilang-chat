@@ -1,12 +1,20 @@
 tiny-multilang-chat/
 ├── src/
-│   ├── chat.js        # core logic
-│   ├── lang.js        # language detection
-│   └── reply.js       # response engine
+
+│   ├── chat.js       # core logic
+
+│   ├── lang.js      # language detection
+
+│   └── reply.js     # response engine
+
 ├── index.html
+
 ├── style.css
+
 ├── README.md
+
 └── .gitignore
+
 # Sherin-tiny-multilang-chat
 
 🌍 Language Auto-Detection (Ultra-Light)
